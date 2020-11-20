@@ -1,6 +1,8 @@
 # Documentação Mapa Eleições
   Projeto Mapa Eleições
   
+  ![alt text](https://github.com/thimico/mapa-eleicoes/blob/master/client/public/preview.png?raw=true)
+  
 ### Ferramentas ###
   
   * node >= 12.18.3 (test&development)
