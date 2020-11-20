@@ -1,0 +1,26 @@
+version: "2"
+services:
+  eleicoes-front:
+    build: client/.
+    ports:
+      - "80:80"
+  eleicoes-back:
+    container_name: app_api
+    restart: always
+    build: .
+    ports:
+      - "8080:8080"
+    links:
+      - mongo
+      - redis
+  mongo:
+    container_name: mongo
+    image: mongo
+    volumes:
+      - mongovol
+    ports:
+      - "27017:27017"
+  redis:
+    image: redis:alpine
+    ports:
+      - "6379"

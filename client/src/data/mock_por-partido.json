@@ -1,0 +1,340 @@
+[
+  {
+    "partido": "PSB",
+    "candidato": "Marina Silva",
+    "resultado": [
+      {
+        "UF": "RO",
+        "nome": "Rondonia",
+        "votos": 167603,
+        "porcentagem": 41.99,
+        "codarea": 11
+      },{
+        "UF": "AC",
+        "nome": "Acre",
+        "votos": 167603,
+        "porcentagem": 41.99,
+        "codarea": 12
+      },{
+        "UF": "AM",
+        "nome": "Amazonas",
+        "votos": 361632,
+        "porcentagem": 21.54,
+        "codarea": 13
+      },{
+        "UF": "RR",
+        "nome": "Roraima",
+        "votos": 361632,
+        "porcentagem": 21.54,
+        "codarea": 14
+      },{
+        "UF": "PA",
+        "nome": "Para",
+        "votos": 361632,
+        "porcentagem": 21.54,
+        "codarea": 15
+      },{
+        "UF": "AP",
+        "nome": "Amapa",
+        "votos": 77791,
+        "porcentagem": 19.97,
+        "codarea": 16
+      },{
+        "UF": "TO",
+        "nome": "Tocantins",
+        "votos": 77791,
+        "porcentagem": 19.97,
+        "codarea": 17
+      },{
+        "UF": "MA",
+        "nome": "Maranhao",
+        "votos": 535013,
+        "porcentagem": 17.01,
+        "codarea": 21
+      },{
+        "UF": "PI",
+        "nome": "Piaui",
+        "votos": 535013,
+        "porcentagem": 17.01,
+        "codarea": 22
+      },{
+        "UF": "CE",
+        "nome": "Ceara",
+        "votos": 638614,
+        "porcentagem": 14.12,
+        "codarea": 23
+      },{
+        "UF": "RN",
+        "nome": "Rio Grande do Norte",
+        "votos": 638614,
+        "porcentagem": 14.12,
+        "codarea": 24
+      },{
+        "UF": "PB",
+        "nome": "Paraiba",
+        "votos": 638614,
+        "porcentagem": 14.12,
+        "codarea": 25
+      },{
+        "UF": "PE",
+        "nome": "Pernambuco",
+        "votos": 638614,
+        "porcentagem": 14.12,
+        "codarea": 26
+      },{
+        "UF": "AL",
+        "nome": "Alagoas",
+        "votos": 356803,
+        "porcentagem": 25.31,
+        "codarea": 27
+      },{
+        "UF": "SE",
+        "nome": "Sergipe",
+        "votos": 638614,
+        "porcentagem": 14.12,
+        "codarea": 28
+      },{
+        "UF": "BA",
+        "nome": "Bahia",
+        "votos": 1284711,
+        "porcentagem": 18.38,
+        "codarea": 29
+      },{
+        "UF": "MG",
+        "nome": "Minas Gerais",
+        "votos": 1555553,
+        "porcentagem": 14.00,
+        "codarea": 31
+      },{
+        "UF": "ES",
+        "nome": "Esp\\u00edrito Santo",
+        "votos": 567964,
+        "porcentagem": 28.75,
+        "codarea": 32
+      },{
+        "UF": "RJ",
+        "nome": "Rio de Janeiro",
+        "votos": 567964,
+        "porcentagem": 28.75,
+        "codarea": 33
+      },{
+        "UF": "SP",
+        "nome": "Sao Paulo",
+        "votos": 567964,
+        "porcentagem": 28.75,
+        "codarea": 35
+      },{
+        "UF": "PR",
+        "nome": "Parana",
+        "votos": 567964,
+        "porcentagem": 28.75,
+        "codarea": 41
+      },{
+        "UF": "SC",
+        "nome": "Santa Catarina",
+        "votos": 567964,
+        "porcentagem": 28.75,
+        "codarea": 42
+      },{
+        "UF": "RS",
+        "nome": "Rio Grande do Sul",
+        "votos": 567964,
+        "porcentagem": 28.75,
+        "codarea": 43
+      },{
+        "UF": "MS",
+        "nome": "Mato Grosso do Sul",
+        "votos": 257976,
+        "porcentagem": 19.08,
+        "codarea": 50
+      },{
+        "UF": "MT",
+        "nome": "Mato Grosso",
+        "votos": 257976,
+        "porcentagem": 19.08,
+        "codarea": 51
+      },{
+        "UF": "GO",
+        "nome": "Goias",
+        "votos": 771591,
+        "porcentagem": 23.9,
+        "codarea": 52
+      },{
+        "UF": "DF",
+        "nome": "Distrito Federal",
+        "votos": 0,
+        "porcentagem": 35.78,
+        "codarea": 53
+      }
+    ]
+  },
+  {
+    "partido": "PT",
+    "candidato": "Lula da Silva",
+    "resultado": [
+      {
+        "UF": "RO",
+        "nome": "Rondonia",
+        "votos": 900,
+        "porcentagem": 41.99,
+        "codarea": 11
+      },{
+        "UF": "AC",
+        "nome": "Acre",
+        "votos": 167603,
+        "porcentagem": 41.99,
+        "codarea": 12
+      },{
+        "UF": "AM",
+        "nome": "Amazonas",
+        "votos": 361632,
+        "porcentagem": 21.54,
+        "codarea": 13
+      },{
+        "UF": "RR",
+        "nome": "Roraima",
+        "votos": 361632,
+        "porcentagem": 21.54,
+        "codarea": 14
+      },{
+        "UF": "PA",
+        "nome": "Para",
+        "votos": 361632,
+        "porcentagem": 21.54,
+        "codarea": 15
+      },{
+        "UF": "AP",
+        "nome": "Amapa",
+        "votos": 77791,
+        "porcentagem": 19.97,
+        "codarea": 16
+      },{
+        "UF": "TO",
+        "nome": "Tocantins",
+        "votos": 77791,
+        "porcentagem": 19.97,
+        "codarea": 17
+      },{
+        "UF": "MA",
+        "nome": "Maranhao",
+        "votos": 535013,
+        "porcentagem": 17.01,
+        "codarea": 21
+      },{
+        "UF": "PI",
+        "nome": "Piaui",
+        "votos": 535013,
+        "porcentagem": 17.01,
+        "codarea": 22
+      },{
+        "UF": "CE",
+        "nome": "Ceara",
+        "votos": 638614,
+        "porcentagem": 14.12,
+        "codarea": 23
+      },{
+        "UF": "RN",
+        "nome": "Rio Grande do Norte",
+        "votos": 638614,
+        "porcentagem": 14.12,
+        "codarea": 24
+      },{
+        "UF": "PB",
+        "nome": "Paraiba",
+        "votos": 638614,
+        "porcentagem": 14.12,
+        "codarea": 25
+      },{
+        "UF": "PE",
+        "nome": "Pernambuco",
+        "votos": 638614,
+        "porcentagem": 14.12,
+        "codarea": 26
+      },{
+        "UF": "AL",
+        "nome": "Alagoas",
+        "votos": 356803,
+        "porcentagem": 25.31,
+        "codarea": 27
+      },{
+        "UF": "SE",
+        "nome": "Sergipe",
+        "votos": 638614,
+        "porcentagem": 14.12,
+        "codarea": 28
+      },{
+        "UF": "BA",
+        "nome": "Bahia",
+        "votos": 0,
+        "porcentagem": 0,
+        "codarea": 29
+      },{
+        "UF": "MG",
+        "nome": "Minas Gerais",
+        "votos": 1555553,
+        "porcentagem": 14.00,
+        "codarea": 31
+      },{
+        "UF": "ES",
+        "nome": "Esp\\u00edrito Santo",
+        "votos": 567964,
+        "porcentagem": 28.75,
+        "codarea": 32
+      },{
+        "UF": "RJ",
+        "nome": "Rio de Janeiro",
+        "votos": 567964,
+        "porcentagem": 28.75,
+        "codarea": 33
+      },{
+        "UF": "SP",
+        "nome": "Sao Paulo",
+        "votos": 567964,
+        "porcentagem": 28.75,
+        "codarea": 35
+      },{
+        "UF": "PR",
+        "nome": "Parana",
+        "votos": 567964,
+        "porcentagem": 28.75,
+        "codarea": 41
+      },{
+        "UF": "SC",
+        "nome": "Santa Catarina",
+        "votos": 567964,
+        "porcentagem": 28.75,
+        "codarea": 42
+      },{
+        "UF": "RS",
+        "nome": "Rio Grande do Sul",
+        "votos": 567964,
+        "porcentagem": 28.75,
+        "codarea": 43
+      },{
+        "UF": "MS",
+        "nome": "Mato Grosso do Sul",
+        "votos": 257976,
+        "porcentagem": 19.08,
+        "codarea": 50
+      },{
+        "UF": "MT",
+        "nome": "Mato Grosso",
+        "votos": 257976,
+        "porcentagem": 19.08,
+        "codarea": 51
+      },{
+        "UF": "GO",
+        "nome": "Goias",
+        "votos": 771591,
+        "porcentagem": 23.9,
+        "codarea": 52
+      },{
+        "UF": "DF",
+        "nome": "Distrito Federal",
+        "votos": 0,
+        "porcentagem": 35.78,
+        "codarea": 53
+      }
+    ]
+  }
+]

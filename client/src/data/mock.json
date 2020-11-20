@@ -1,0 +1,79 @@
+[
+  {
+    "UF":"AC",
+    "nome":"Acre",
+    "codarea":12,
+    "resultado":[
+      {
+        "partido":"PSB",
+        "candidato":"Marina Silva",
+        "votos":167603,
+        "porcentagem":41.99,
+        "outros":"N"
+      },
+      {
+        "partido":"PSDB",
+        "candidato":"A\u00e9cio Neves",
+        "votos":116109,
+        "porcentagem":29.09,
+        "outros":"N"
+      },
+      {
+        "partido":"PT",
+        "candidato":"Dilma",
+        "votos":111641,
+        "porcentagem":27.97,
+        "outros":"N"
+      },
+      {
+        "partido":"PSC",
+        "candidato":"Pastor Everaldo",
+        "votos":1203,
+        "porcentagem":0.3,
+        "outros":"N"
+      },
+      {
+        "partido":"PRTB",
+        "candidato":"Levy Fidelix",
+        "votos":639,
+        "porcentagem":0.16,
+        "outros":"N"
+      },
+      {
+        "partido":"PV",
+        "candidato":"Eduardo Jorge",
+        "votos":597,
+        "porcentagem":0.15,
+        "outros":"N"
+      },
+      {
+        "partido":"PSDC",
+        "candidato":"Eymael",
+        "votos":282,
+        "porcentagem":0.07,
+        "outros":"N"
+      },
+      {
+        "partido":"PSTU",
+        "candidato":"Z\u00e9 Maria",
+        "votos":112,
+        "porcentagem":0.03,
+        "outros":"N"
+      },
+      {
+        "partido":"PCB",
+        "candidato":"Mauro Iasi",
+        "votos":68,
+        "porcentagem":0.02,
+        "outros":"N"
+      },
+      {
+        "partido":"PCO",
+        "candidato":"Rui Costa Pimenta",
+        "votos":14,
+        "porcentagem":0.0,
+        "outros":"N"
+      }
+    ]
+  }
+]

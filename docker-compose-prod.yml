@@ -1,0 +1,65 @@
+version: "2"
+services:
+  nginx:
+    build: ./nginx
+    links:
+      - eleicoes-front-1:eleicoes-front-1
+      - eleicoes-front-2:eleicoes-front-2
+      - eleicoes-back-1:eleicoes-back-1
+      - eleicoes-back-2:eleicoes-back-2
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - /etc/nginx/ssl:/etc/nginx/ssl
+    environment:
+      - DOMAIN_NAME=app-challenge.com
+  eleicoes-front-1:
+    build: client/.
+    ports:
+      - "3000:80"
+    environment:
+      - MODE=prod
+      - REGION=us-west-1
+  eleicoes-front-2:
+    build: client/.
+    ports:
+      - "3000:80"
+    environment:
+      - MODE=prod
+      - REGION=us-west-2
+  eleicoes-back-1:
+    container_name: app_api_1
+    restart: always
+    build: .
+    ports:
+      - "8080:8080"
+    links:
+      - mongo
+      - redis
+    environment:
+      - MODE=prod
+      - REGION=us-west-1
+  eleicoes-back-2:
+    container_name: app_api_2
+    restart: always
+    build: .
+    ports:
+      - "8080:8080"
+    links:
+      - mongo
+      - redis
+    environment:
+      - MODE=prod
+      - REGION=us-west-2
+  mongo:
+    container_name: mongo
+    image: mongo
+    volumes:
+      - mongovol
+    ports:
+      - "27017:27017"
+  redis:
+    image: redis:alpine
+    ports:
+      - "6379"
